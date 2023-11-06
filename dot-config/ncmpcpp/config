@@ -1,0 +1,11 @@
+# vim: set ft=conf :
+ncmpcpp_directory = "~/.local/share/ncmpcpp"
+media_library_primary_tag = album_artist
+media_library_albums_split_by_date = no
+mpd_music_dir = ~/Muzak
+
+visualizer_data_source = "~/.cache/mpd/ncmpcpp.fifo"
+visualizer_output_name = "ncmpcpp"
+visualizer_in_stereo = "yes"
+visualizer_type = "spectrum"
+visualizer_look = "+│"
